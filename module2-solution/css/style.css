@@ -53,6 +53,7 @@ p {
   margin: 20px;
   background-color: grey;
   border: 1px solid black;
+  overflow: auto;
 }
 
 .section_title {
@@ -61,6 +62,7 @@ p {
   border: 1px solid black;
   top: 0;
   right: 0;
+  overflow: auto;
 }
 
 /* Large displays Monitors */
